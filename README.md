@@ -1,4 +1,4 @@
-# Count-subtress-that-sum-up-to-a-given-value-x-in-a-binary-tree
+ sum of all nodes of the given perfect binary tree
 def SumNodes(l):
 	
 	# no of leaf nodes
